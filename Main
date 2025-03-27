@@ -10,9 +10,9 @@ public class Main {
         c=a.sumar(b);
         //System.out.println(c.toString());
         System.out.println("Suma: "+c.toString());
-        System.out.println(b.equals(d));
-        d=a;
-        System.out.println(a.equals(d));
+        System.out.println(b.equals(c));
+        c=a;
+        System.out.println(a.equals(c));
 
 
 
